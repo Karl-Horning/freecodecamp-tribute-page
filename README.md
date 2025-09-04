@@ -2,6 +2,10 @@
 
 ---
 
+![Deploy status](https://github.com/Karl-Horning/freecodecamp-tribute-page/actions/workflows/pages.yml/badge.svg?branch=main)
+
+---
+
 ## 📖 Table of Contents
 
 - [📺 Homer Simpson Tribute Page](#-homer-simpson-tribute-page)
